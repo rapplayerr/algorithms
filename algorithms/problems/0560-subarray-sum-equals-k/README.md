@@ -2,7 +2,7 @@
 
 **Дата:** 2026-03-03
 **Сложность:** Medium
-**Паттерн:** префиксные суммы, хеш-таблица
+**Паттерн:** префиксные суммы, подсчет частоты, хеш-таблица
 
 ## Концепция
 Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
