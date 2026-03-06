@@ -11,4 +11,4 @@
 
 
 # Решенные задачи
-1. 150 (Valid Anagram)
+1. 150 (Valid Palindrome)
